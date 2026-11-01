@@ -1,0 +1,5 @@
+# jangan pernah commit data keuangan / backup
+*.json
+!manifest.webmanifest
+.DS_Store
+node_modules
